@@ -1,0 +1,5 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\06 StringsObjects\bin\Debug\06 StringsObjects.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\06 StringsObjects\bin\Debug\06 StringsObjects.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\06 StringsObjects\bin\Debug\06 StringsObjects.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\06 StringsObjects\obj\Debug\06 StringsObjects.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\06 StringsObjects\obj\Debug\06 StringsObjects.pdb

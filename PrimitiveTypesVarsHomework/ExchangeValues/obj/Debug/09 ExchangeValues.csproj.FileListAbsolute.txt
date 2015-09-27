@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\ExchangeValues\obj\Debug\ExchangeValues.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\ExchangeValues\obj\Debug\ExchangeValues.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\ExchangeValues\bin\Debug\ExchangeValues.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\ExchangeValues\bin\Debug\ExchangeValues.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\ExchangeValues\obj\Debug\09 ExchangeValues.csprojResolveAssemblyReference.cache

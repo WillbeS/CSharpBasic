@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\13 CompareFloats\bin\Debug\13 CompareFloats.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\13 CompareFloats\obj\Debug\13 CompareFloats.csprojResolveAssemblyReference.cache
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\13 CompareFloats\bin\Debug\13 CompareFloats.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\13 CompareFloats\bin\Debug\13 CompareFloats.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\13 CompareFloats\obj\Debug\13 CompareFloats.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\13 CompareFloats\obj\Debug\13 CompareFloats.pdb

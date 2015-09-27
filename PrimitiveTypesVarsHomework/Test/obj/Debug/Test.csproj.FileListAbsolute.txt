@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\Test\bin\Debug\Test.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\Test\bin\Debug\Test.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\Test\bin\Debug\Test.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\Test\obj\Debug\Test.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\Test\obj\Debug\Test.pdb

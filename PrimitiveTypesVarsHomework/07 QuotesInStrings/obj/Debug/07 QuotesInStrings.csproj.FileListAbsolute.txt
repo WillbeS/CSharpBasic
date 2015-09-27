@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\07 QuotesInStrings\bin\Debug\07 QuotesInStrings.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\07 QuotesInStrings\bin\Debug\07 QuotesInStrings.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\07 QuotesInStrings\bin\Debug\07 QuotesInStrings.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\07 QuotesInStrings\obj\Debug\07 QuotesInStrings.csprojResolveAssemblyReference.cache
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\07 QuotesInStrings\obj\Debug\07 QuotesInStrings.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\07 QuotesInStrings\obj\Debug\07 QuotesInStrings.pdb

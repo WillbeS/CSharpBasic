@@ -1,0 +1,5 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\05 BooleanVariable\bin\Debug\05 BooleanVariable.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\05 BooleanVariable\bin\Debug\05 BooleanVariable.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\05 BooleanVariable\bin\Debug\05 BooleanVariable.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\05 BooleanVariable\obj\Debug\05 BooleanVariable.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\05 BooleanVariable\obj\Debug\05 BooleanVariable.pdb

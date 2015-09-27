@@ -1,0 +1,5 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\14 AsciiTable\bin\Debug\14 AsciiTable.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\14 AsciiTable\bin\Debug\14 AsciiTable.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\14 AsciiTable\bin\Debug\14 AsciiTable.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\14 AsciiTable\obj\Debug\14 AsciiTable.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\14 AsciiTable\obj\Debug\14 AsciiTable.pdb

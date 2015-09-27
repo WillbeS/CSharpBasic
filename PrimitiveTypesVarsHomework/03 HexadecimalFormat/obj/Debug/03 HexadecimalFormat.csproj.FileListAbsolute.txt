@@ -1,0 +1,5 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\03 HexadecimalFormat\bin\Debug\03 HexadecimalFormat.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\03 HexadecimalFormat\bin\Debug\03 HexadecimalFormat.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\03 HexadecimalFormat\bin\Debug\03 HexadecimalFormat.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\03 HexadecimalFormat\obj\Debug\03 HexadecimalFormat.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\03 HexadecimalFormat\obj\Debug\03 HexadecimalFormat.pdb

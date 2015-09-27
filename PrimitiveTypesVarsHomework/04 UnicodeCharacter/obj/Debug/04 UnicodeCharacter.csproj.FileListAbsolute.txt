@@ -1,0 +1,5 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\04 UnicodeCharacter\bin\Debug\04 UnicodeCharacter.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\04 UnicodeCharacter\bin\Debug\04 UnicodeCharacter.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\04 UnicodeCharacter\bin\Debug\04 UnicodeCharacter.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\04 UnicodeCharacter\obj\Debug\04 UnicodeCharacter.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Primitive Data Types and Variables\PrimitiveTypesVarsHomework\04 UnicodeCharacter\obj\Debug\04 UnicodeCharacter.pdb
