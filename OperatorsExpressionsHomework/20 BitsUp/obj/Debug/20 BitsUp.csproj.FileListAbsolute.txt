@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\20 BitsUp\bin\Debug\20 BitsUp.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\20 BitsUp\bin\Debug\20 BitsUp.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\20 BitsUp\bin\Debug\20 BitsUp.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\20 BitsUp\obj\Debug\20 BitsUp.csprojResolveAssemblyReference.cache
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\20 BitsUp\obj\Debug\20 BitsUp.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\20 BitsUp\obj\Debug\20 BitsUp.pdb

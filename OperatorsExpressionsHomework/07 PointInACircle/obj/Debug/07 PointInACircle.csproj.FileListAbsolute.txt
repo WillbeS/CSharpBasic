@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\07 PointInACircle\bin\Debug\07 PointInACircle.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\07 PointInACircle\bin\Debug\07 PointInACircle.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\07 PointInACircle\bin\Debug\07 PointInACircle.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\07 PointInACircle\obj\Debug\07 PointInACircle.csprojResolveAssemblyReference.cache
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\07 PointInACircle\obj\Debug\07 PointInACircle.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\07 PointInACircle\obj\Debug\07 PointInACircle.pdb

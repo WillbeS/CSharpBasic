@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\01 OddEvenIntegers\bin\Debug\01 OddEvenIntegers.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\01 OddEvenIntegers\bin\Debug\01 OddEvenIntegers.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\01 OddEvenIntegers\bin\Debug\01 OddEvenIntegers.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\01 OddEvenIntegers\obj\Debug\01 OddEvenIntegers.csprojResolveAssemblyReference.cache
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\01 OddEvenIntegers\obj\Debug\01 OddEvenIntegers.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\01 OddEvenIntegers\obj\Debug\01 OddEvenIntegers.pdb

@@ -1,0 +1,5 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\04 Rectangles\bin\Debug\04 Rectangles.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\04 Rectangles\bin\Debug\04 Rectangles.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\04 Rectangles\bin\Debug\04 Rectangles.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\04 Rectangles\obj\Debug\04 Rectangles.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\04 Rectangles\obj\Debug\04 Rectangles.pdb

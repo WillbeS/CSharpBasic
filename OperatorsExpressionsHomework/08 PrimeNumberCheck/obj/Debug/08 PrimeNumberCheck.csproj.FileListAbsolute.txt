@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\08 PrimeNumberCheck\bin\Debug\08 PrimeNumberCheck.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\08 PrimeNumberCheck\bin\Debug\08 PrimeNumberCheck.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\08 PrimeNumberCheck\bin\Debug\08 PrimeNumberCheck.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\08 PrimeNumberCheck\obj\Debug\08 PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\08 PrimeNumberCheck\obj\Debug\08 PrimeNumberCheck.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\08 PrimeNumberCheck\obj\Debug\08 PrimeNumberCheck.pdb

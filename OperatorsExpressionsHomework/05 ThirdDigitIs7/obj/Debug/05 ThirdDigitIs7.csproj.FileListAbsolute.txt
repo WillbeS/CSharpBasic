@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\05 ThirdDigitIs7\bin\Debug\05 ThirdDigitIs7.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\05 ThirdDigitIs7\bin\Debug\05 ThirdDigitIs7.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\05 ThirdDigitIs7\bin\Debug\05 ThirdDigitIs7.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\05 ThirdDigitIs7\obj\Debug\05 ThirdDigitIs7.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\05 ThirdDigitIs7\obj\Debug\05 ThirdDigitIs7.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\05 ThirdDigitIs7\obj\Debug\05 ThirdDigitIs7.csprojResolveAssemblyReference.cache

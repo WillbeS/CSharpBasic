@@ -1,0 +1,6 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\10 PointInCircleRect\bin\Debug\10 PointInCircleRect.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\10 PointInCircleRect\bin\Debug\10 PointInCircleRect.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\10 PointInCircleRect\bin\Debug\10 PointInCircleRect.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\10 PointInCircleRect\obj\Debug\10 PointInCircleRect.csprojResolveAssemblyReference.cache
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\10 PointInCircleRect\obj\Debug\10 PointInCircleRect.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\10 PointInCircleRect\obj\Debug\10 PointInCircleRect.pdb

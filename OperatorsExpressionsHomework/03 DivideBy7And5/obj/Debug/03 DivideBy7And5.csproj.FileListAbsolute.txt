@@ -1,0 +1,5 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\03 DivideBy7And5\bin\Debug\03 DivideBy7And5.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\03 DivideBy7And5\bin\Debug\03 DivideBy7And5.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\03 DivideBy7And5\bin\Debug\03 DivideBy7And5.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\03 DivideBy7And5\obj\Debug\03 DivideBy7And5.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\03 DivideBy7And5\obj\Debug\03 DivideBy7And5.pdb

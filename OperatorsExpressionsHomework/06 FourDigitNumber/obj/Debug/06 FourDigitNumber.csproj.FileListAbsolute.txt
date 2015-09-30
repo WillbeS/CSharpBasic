@@ -1,0 +1,5 @@
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\06 FourDigitNumber\bin\Debug\06 FourDigitNumber.exe.config
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\06 FourDigitNumber\bin\Debug\06 FourDigitNumber.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\06 FourDigitNumber\bin\Debug\06 FourDigitNumber.pdb
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\06 FourDigitNumber\obj\Debug\06 FourDigitNumber.exe
+D:\03 Studying\SoftUni\Programming Basics June 2015\Operators and Expressions\OperatorsExpressionsHomework\06 FourDigitNumber\obj\Debug\06 FourDigitNumber.pdb
